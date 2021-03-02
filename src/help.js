@@ -199,8 +199,7 @@ const help = (prefix) => {
   ▋▰ ☛ ${prefix}timer
   ▋▰ ☛ ${prefix}fml
   ▋▰ ☛ ${prefix}fml2
-❖ ── ✦ ──『✙』── ✦ ── ❖
-'
+❖ ── ✦ ──『✙』── ✦ ── ❖'
 }
 
 exports.help = help
